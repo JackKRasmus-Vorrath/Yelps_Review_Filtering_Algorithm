@@ -1,4 +1,4 @@
-# Capstone - Yelp Review Filtering algorithm
+# Yelp's Review Filtering algorithm
 
 Yao Yao, Ivelin Angelov, Jack Rasmus-Vorrath, Mooyoung Lee, Daniel W Engels
 
